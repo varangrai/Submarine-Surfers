@@ -21,7 +21,8 @@ Input folder stores the raw image.
 Input1 folder stores the preprocessed image after CLAHE application
 Output folder stores after ULAP application
 
-** Sample Image Preprocessing Output **
+**Image Preprocessing Results**
+___________________________________
 ![alt text](https://github.com/varangrai/Submarine-Surfers/blob/master/Preprocessing%20Results.png?raw=true)
 
 # Object detection
